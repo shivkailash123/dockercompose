@@ -1,0 +1,4 @@
+com\mindtree\controller\MindController.class
+com\mindtree\repository\MindsRepo.class
+com\mindtree\SpringDockerMysqlApplication.class
+com\mindtree\entity\MindtreeMinds.class
